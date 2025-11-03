@@ -1,0 +1,439 @@
+- id: 22
+  tsa_title: "One of Sparks"
+  rws_title: "Ace of Wands"
+  pip: "One"
+  suit: "Sparks"
+  rws_suit: "Wands"
+  element: "Fire"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 23
+  tsa_title: "Two of Sparks"
+  rws_title: "Two of Wands"
+  pip: "Two"
+  suit: "Sparks"
+  rws_suit: "Wands"
+  element: "Fire"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 24
+  tsa_title: "Three of Sparks"
+  rws_title: "Three of Wands"
+  pip: "Three"
+  suit: "Sparks"
+  rws_suit: "Wands"
+  element: "Fire"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 25
+  tsa_title: "Four of Sparks"
+  rws_title: "Four of Wands"
+  pip: "Four"
+  suit: "Sparks"
+  rws_suit: "Wands"
+  element: "Fire"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 26
+  tsa_title: "Five of Sparks"
+  rws_title: "Five of Wands"
+  pip: "Five"
+  suit: "Sparks"
+  rws_suit: "Wands"
+  element: "Fire"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 27
+  tsa_title: "Six of Sparks"
+  rws_title: "Six of Wands"
+  pip: "Six"
+  suit: "Sparks"
+  rws_suit: "Wands"
+  element: "Fire"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 28
+  tsa_title: "Seven of Sparks"
+  rws_title: "Seven of Wands"
+  pip: "Seven"
+  suit: "Sparks"
+  rws_suit: "Wands"
+  element: "Fire"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 29
+  tsa_title: "Eight of Sparks"
+  rws_title: "Eight of Wands"
+  pip: "Eight"
+  suit: "Sparks"
+  rws_suit: "Wands"
+  element: "Fire"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 30
+  tsa_title: "Nine of Sparks"
+  rws_title: "Nine of Wands"
+  pip: "Nine"
+  suit: "Sparks"
+  rws_suit: "Wands"
+  element: "Fire"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 31
+  tsa_title: "Ten of Sparks"
+  rws_title: "Ten of Wands"
+  pip: "Ten"
+  suit: "Sparks"
+  rws_suit: "Wands"
+  element: "Fire"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 32
+  tsa_title: "One of Tears"
+  rws_title: "Ace of Cups"
+  pip: "One"
+  suit: "Tears"
+  rws_suit: "Cups"
+  element: "Water"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 33
+  tsa_title: "Two of Tears"
+  rws_title: "Two of Cups"
+  pip: "Two"
+  suit: "Tears"
+  rws_suit: "Cups"
+  element: "Water"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 34
+  tsa_title: "Three of Tears"
+  rws_title: "Three of Cups"
+  pip: "Three"
+  suit: "Tears"
+  rws_suit: "Cups"
+  element: "Water"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 35
+  tsa_title: "Four of Tears"
+  rws_title: "Four of Cups"
+  pip: "Four"
+  suit: "Tears"
+  rws_suit: "Cups"
+  element: "Water"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 36
+  tsa_title: "Five of Tears"
+  rws_title: "Five of Cups"
+  pip: "Five"
+  suit: "Tears"
+  rws_suit: "Cups"
+  element: "Water"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 37
+  tsa_title: "Six of Tears"
+  rws_title: "Six of Cups"
+  pip: "Six"
+  suit: "Tears"
+  rws_suit: "Cups"
+  element: "Water"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 38
+  tsa_title: "Seven of Tears"
+  rws_title: "Seven of Cups"
+  pip: "Seven"
+  suit: "Tears"
+  rws_suit: "Cups"
+  element: "Water"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 39
+  tsa_title: "Eight of Tears"
+  rws_title: "Eight of Cups"
+  pip: "Eight"
+  suit: "Tears"
+  rws_suit: "Cups"
+  element: "Water"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 40
+  tsa_title: "Nine of Tears"
+  rws_title: "Nine of Cups"
+  pip: "Nine"
+  suit: "Tears"
+  rws_suit: "Cups"
+  element: "Water"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 41
+  tsa_title: "Ten of Tears"
+  rws_title: "Ten of Cups"
+  pip: "Ten"
+  suit: "Tears"
+  rws_suit: "Cups"
+  element: "Water"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 42
+  tsa_title: "One of Soil"
+  rws_title: "Ace of Pentacles"
+  pip: "One"
+  suit: "Soil"
+  rws_suit: "Pentacles"
+  element: "Earth"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 43
+  tsa_title: "Two of Soil"
+  rws_title: "Two of Pentacles"
+  pip: "Two"
+  suit: "Soil"
+  rws_suit: "Pentacles"
+  element: "Earth"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 44
+  tsa_title: "Three of Soil"
+  rws_title: "Three of Pentacles"
+  pip: "Three"
+  suit: "Soil"
+  rws_suit: "Pentacles"
+  element: "Earth"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 45
+  tsa_title: "Four of Soil"
+  rws_title: "Four of Pentacles"
+  pip: "Four"
+  suit: "Soil"
+  rws_suit: "Pentacles"
+  element: "Earth"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 46
+  tsa_title: "Five of Soil"
+  rws_title: "Five of Pentacles"
+  pip: "Five"
+  suit: "Soil"
+  rws_suit: "Pentacles"
+  element: "Earth"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 47
+  tsa_title: "Six of Soil"
+  rws_title: "Six of Pentacles"
+  pip: "Six"
+  suit: "Soil"
+  rws_suit: "Pentacles"
+  element: "Earth"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 48
+  tsa_title: "Seven of Soil"
+  rws_title: "Seven of Pentacles"
+  pip: "Seven"
+  suit: "Soil"
+  rws_suit: "Pentacles"
+  element: "Earth"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 49
+  tsa_title: "Eight of Soil"
+  rws_title: "Eight of Pentacles"
+  pip: "Eight"
+  suit: "Soil"
+  rws_suit: "Pentacles"
+  element: "Earth"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 50
+  tsa_title: "Nine of Soil"
+  rws_title: "Nine of Pentacles"
+  pip: "Nine"
+  suit: "Soil"
+  rws_suit: "Pentacles"
+  element: "Earth"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 51
+  tsa_title: "Ten of Soil"
+  rws_title: "Ten of Pentacles"
+  pip: "Ten"
+  suit: "Soil"
+  rws_suit: "Pentacles"
+  element: "Earth"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 52
+  tsa_title: "One of Whispers"
+  rws_title: "Ace of Swords"
+  pip: "One"
+  suit: "Whispers"
+  rws_suit: "Swords"
+  element: "Air"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 53
+  tsa_title: "Two of Whispers"
+  rws_title: "Two of Swords"
+  pip: "Two"
+  suit: "Whispers"
+  rws_suit: "Swords"
+  element: "Air"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 54
+  tsa_title: "Three of Whispers"
+  rws_title: "Three of Swords"
+  pip: "Three"
+  suit: "Whispers"
+  rws_suit: "Swords"
+  element: "Air"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 55
+  tsa_title: "Four of Whispers"
+  rws_title: "Four of Swords"
+  pip: "Four"
+  suit: "Whispers"
+  rws_suit: "Swords"
+  element: "Air"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 56
+  tsa_title: "Five of Whispers"
+  rws_title: "Five of Swords"
+  pip: "Five"
+  suit: "Whispers"
+  rws_suit: "Swords"
+  element: "Air"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 57
+  tsa_title: "Six of Whispers"
+  rws_title: "Six of Swords"
+  pip: "Six"
+  suit: "Whispers"
+  rws_suit: "Swords"
+  element: "Air"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 58
+  tsa_title: "Seven of Whispers"
+  rws_title: "Seven of Swords"
+  pip: "Seven"
+  suit: "Whispers"
+  rws_suit: "Swords"
+  element: "Air"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 59
+  tsa_title: "Eight of Whispers"
+  rws_title: "Eight of Swords"
+  pip: "Eight"
+  suit: "Whispers"
+  rws_suit: "Swords"
+  element: "Air"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 60
+  tsa_title: "Nine of Whispers"
+  rws_title: "Nine of Swords"
+  pip: "Nine"
+  suit: "Whispers"
+  rws_suit: "Swords"
+  element: "Air"
+  upright: ""
+  reversed: ""
+  keywords: []
+
+- id: 61
+  tsa_title: "Ten of Whispers"
+  rws_title: "Ten of Swords"
+  pip: "Ten"
+  suit: "Whispers"
+  rws_suit: "Swords"
+  element: "Air"
+  upright: ""
+  reversed: ""
+  keywords: []

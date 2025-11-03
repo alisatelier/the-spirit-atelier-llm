@@ -1,0 +1,39 @@
+{
+  "ppf": {
+    "title": "Past • Present • Future",
+    "positions": ["Past", "Present", "Future"]
+  },
+  "pphao": {
+    "title": "Past • Present • Hidden • Advice • Outcome",
+    "positions": ["Past", "Present", "Hidden Issues", "Advice", "Outcome"]
+  },
+  "fml": {
+    "title": "Focus • Moving Forward • Letting Go",
+    "positions": ["Focus", "Moving Forward", "Letting Go"]
+  },
+  "kdk": {
+    "title": "What I Know • What I Don't • What I Need To Know",
+    "positions": ["What I Know", "What I Don't", "What I Need To"]
+  },
+  "this-or-that": {
+    "title": "This or That With Pros and Cons",
+    "positions": ["Focus", "Pros: Option A", "Cons: Option A", "Pros: Option B", "Cons: Option B"]
+  },
+  "horoscope": {
+    "title": "Horoscope Spread",
+    "positions": [
+      "Aries",
+      "Taurus",
+      "Gemini",
+      "Cancer",
+      "Leo",
+      "Virgo",
+      "Libra",
+      "Scorpio",
+      "Sagittarius",
+      "Capricorn",
+      "Aquarius",
+      "Pisces"
+    ]
+  }
+}
